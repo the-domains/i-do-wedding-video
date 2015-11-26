@@ -21,10 +21,10 @@ author:
           - 91
 related: []
 publisher:
-  url: 'https://vimeo.com/'
   name: Vimeo
-  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
   domain: vimeo.com
+  url: 'https://vimeo.com/'
+  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
 keywords:
   - yana
   - woodson
@@ -45,13 +45,15 @@ app_links:
     app_name: Vimeo
 isBasedOnUrl: 'https://vimeo.com/145695695'
 title: Yana + David
-datePublished: '2015-11-25T23:17:11.386Z'
-dateModified: '2015-11-25T23:16:56.544Z'
+datePublished: '2015-11-26T00:21:37.704Z'
+dateModified: '2015-11-26T00:09:17.781Z'
 sourcePath: _posts/2015-11-25-yana-david.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+starred: true
+authors: []
 _type: VideoObject
 _context: 'http://schema.org'
 
