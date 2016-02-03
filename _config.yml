@@ -1,6 +1,6 @@
 name: I Do Wedding Video
 favicon: null
-layout_spectrum: 0.24628
+layout_spectrum: 0.25224
 typography_spectrum: 0.7939
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#9b9fba'
     - '#433d3b'
     - '#7b7c92'
-  brandStrength: 0.75
+  brandStrength: 0.625
   lightness: 1
-  saturation: 0.125
-  rhythmicContrast: 0.75
+  saturation: 0
+  rhythmicContrast: 0.25
 purpose: []
